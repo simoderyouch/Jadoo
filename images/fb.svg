@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="101" height="101" viewBox="0 0 101 101">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #080809;
+      }
+
+      .cls-3 {
+        filter: url(#Background);
+      }
+    </style>
+    <filter id="Background" x="0" y="0" width="101" height="101" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="fb" transform="translate(-1004 -4413)">
+    <g class="cls-3" transform="matrix(1, 0, 0, 1, 1004, 4413)">
+      <path id="Background-2" data-name="Background" class="cls-1" d="M20.5,41A20.5,20.5,0,1,0,0,20.5,20.5,20.5,0,0,0,20.5,41Z" transform="translate(30 28)"/>
+    </g>
+    <path id="Facebook_Icon" data-name="Facebook Icon" class="cls-2" d="M5.537,2.244a3.523,3.523,0,0,0-1.024-.169c-.416,0-1.312.287-1.312.844V4.253H5.329V6.5H3.2V12.69H1.056V6.5H0V4.253H1.056V3.122C1.056,1.418,1.792,0,3.569,0A8.08,8.08,0,0,1,5.857.253Z" transform="translate(1051.571 4457)"/>
+  </g>
+</svg>

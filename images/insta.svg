@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="105" height="105" viewBox="0 0 105 105">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        filter: url(#Background);
+      }
+    </style>
+    <filter id="Background" x="0" y="0" width="105" height="105" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="insta" transform="translate(-1070 -4413)">
+    <g class="cls-2" transform="matrix(1, 0, 0, 1, 1070, 4413)">
+      <path id="Background-2" data-name="Background" class="cls-1" d="M22.5,45A22.5,22.5,0,1,0,0,22.5,22.5,22.5,0,0,0,22.5,45Z" transform="translate(30 28)"/>
+    </g>
+    <g id="instagram_1" data-name="instagram 1" transform="translate(1115 4455)">
+      <g id="Group">
+        <g id="Group-2" data-name="Group">
+          <path id="Vector" d="M13.656,0H2.344A2.347,2.347,0,0,0,0,2.344V13.656A2.346,2.346,0,0,0,2.344,16H13.656A2.346,2.346,0,0,0,16,13.656V2.344A2.346,2.346,0,0,0,13.656,0Zm1.406,13.656a1.408,1.408,0,0,1-1.406,1.406H2.344A1.408,1.408,0,0,1,.938,13.656V2.344A1.408,1.408,0,0,1,2.344.938H13.656a1.408,1.408,0,0,1,1.406,1.406Z"/>
+        </g>
+        <g id="Group-3" data-name="Group">
+          <path id="Vector-2" data-name="Vector" d="M.938,0a.938.938,0,1,0,.938.938A.939.939,0,0,0,.938,0Z" transform="translate(12.219 1.906)"/>
+        </g>
+        <g id="Group-4" data-name="Group">
+          <path id="Vector-3" data-name="Vector" d="M4.219,0A4.219,4.219,0,1,0,8.438,4.219,4.223,4.223,0,0,0,4.219,0Zm0,7.5A3.281,3.281,0,1,1,7.5,4.219,3.285,3.285,0,0,1,4.219,7.5Z" transform="translate(3.781 3.781)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

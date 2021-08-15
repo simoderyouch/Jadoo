@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.828" height="9.829" viewBox="0 0 16.828 9.829">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #3e2e4d;
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <path id="Vector_3" data-name="Vector 3" class="cls-1" d="M0-7,7,0l7-7" transform="translate(1.414 8.414)"/>
+</svg>

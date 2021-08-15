@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="101" height="101" viewBox="0 0 101 101">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #080809;
+      }
+
+      .cls-3 {
+        filter: url(#Background);
+      }
+    </style>
+    <filter id="Background" x="0" y="0" width="101" height="101" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="twitter" transform="translate(-1140 -4415)">
+    <g class="cls-3" transform="matrix(1, 0, 0, 1, 1140, 4415)">
+      <path id="Background-2" data-name="Background" class="cls-1" d="M20.5,41A20.5,20.5,0,1,0,0,20.5,20.5,20.5,0,0,0,20.5,41Z" transform="translate(30 28)"/>
+    </g>
+    <path id="Vector" class="cls-2" d="M16,1.539a6.839,6.839,0,0,1-1.89.518A3.262,3.262,0,0,0,15.553.244a6.555,6.555,0,0,1-2.08.794A3.28,3.28,0,0,0,7.8,3.281a3.378,3.378,0,0,0,.076.748A9.284,9.284,0,0,1,1.114.6,3.281,3.281,0,0,0,2.122,4.982a3.239,3.239,0,0,1-1.482-.4v.036A3.3,3.3,0,0,0,3.268,7.837a3.274,3.274,0,0,1-.86.108,2.9,2.9,0,0,1-.621-.056,3.311,3.311,0,0,0,3.065,2.285,6.591,6.591,0,0,1-4.067,1.4A6.144,6.144,0,0,1,0,11.528,9.234,9.234,0,0,0,5.032,13a9.272,9.272,0,0,0,9.336-9.334c0-.145-.005-.285-.012-.424A6.544,6.544,0,0,0,16,1.539Z" transform="translate(1182 4457)"/>
+  </g>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="107" height="35" viewBox="0 0 107 35">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #080809;
+      }
+
+      .cls-2 {
+        fill: #2196f3;
+      }
+
+      .cls-3 {
+        fill: #4caf50;
+      }
+
+      .cls-4 {
+        fill: #f0bb1f;
+      }
+
+      .cls-5 {
+        fill: #f15a2b;
+      }
+
+      .cls-6 {
+        fill: #fff;
+        font-size: 8px;
+        font-family: SegoeUI, Segoe UI;
+      }
+    </style>
+  </defs>
+  <g id="Google_Play" data-name="Google Play" transform="translate(-1032 -4553)">
+    <rect id="Rectangle_23" data-name="Rectangle 23" class="cls-1" width="107" height="35" rx="17.5" transform="translate(1032 4553)"/>
+    <g id="google-play_1" data-name="google-play 1" transform="translate(1049 4560)">
+      <path id="Vector" class="cls-2" d="M10.788,9.671.745,19.342A1.709,1.709,0,0,1,0,17.917V1.426A1.709,1.709,0,0,1,.745,0Z" transform="translate(0.719 0.331)"/>
+      <path id="Vector-2" data-name="Vector" class="cls-3" d="M13.558,6.624,10.044,10,0,.331A1.339,1.339,0,0,1,.118.249,1.718,1.718,0,0,1,1.853.222Z" transform="translate(1.464 0)"/>
+      <path id="Vector-3" data-name="Vector" class="cls-4" d="M7.773,3.378a1.736,1.736,0,0,1-.908,1.544L3.514,6.756,0,3.378,3.514,0,6.865,1.834A1.736,1.736,0,0,1,7.773,3.378Z" transform="translate(11.507 6.624)"/>
+      <path id="Vector-4" data-name="Vector" class="cls-5" d="M13.558,3.378,1.853,9.78A1.741,1.741,0,0,1,.118,9.753,1.339,1.339,0,0,1,0,9.671L10.044,0Z" transform="translate(1.464 10.002)"/>
+    </g>
+    <text id="GET_IT_ON" data-name="GET IT ON" class="cls-6" transform="translate(1074 4560)"><tspan x="0" y="9">GET IT </tspan></text>
+    <text id="GOOGLE_PLAY-2" data-name="GOOGLE PLAY" class="cls-6" transform="translate(1074 4570)"><tspan x="0" y="9">GOOGLE PLAY</tspan></text>
+  </g>
+</svg>

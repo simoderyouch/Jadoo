@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70" height="70" viewBox="0 0 70 70">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.709" y1="0.028" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#747def"/>
+      <stop offset="1" stop-color="#5e3be1"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_77" data-name="Group 77" transform="translate(-1255 -3834)">
+    <circle id="Ellipse_31" data-name="Ellipse 31" class="cls-1" cx="35" cy="35" r="35" transform="translate(1255 3834)"/>
+    <g id="send_2_1" data-name="send (2) 1">
+      <path id="Vector" class="cls-2" d="M34.769,15A3.3,3.3,0,0,1,32.7,18.1L4.646,29.741a3.357,3.357,0,0,1-4.54-3.931l2.5-9.792L2.862,15,2.6,13.981.106,4.189A3.357,3.357,0,0,1,4.646.259L32.7,11.9A3.3,3.3,0,0,1,34.769,15Z" transform="translate(1270 3862.384) rotate(-30)"/>
+      <path id="Vector-2" data-name="Vector" class="cls-2" d="M2.6,1.019l-2.5,9.792a3.357,3.357,0,0,0,4.54,3.931L32.7,3.1A3.3,3.3,0,0,0,34.769,0H2.862Z" transform="translate(1277.5 3875.375) rotate(-30)"/>
+      <path id="Vector-3" data-name="Vector" class="cls-1" d="M13.243,1.019a1.019,1.019,0,0,1-1.019,1.019H0L.259,1.019,0,0H12.224A1.019,1.019,0,0,1,13.243,1.019Z" transform="translate(1279.245 3873.191) rotate(-30)"/>
+      <path id="Vector-4" data-name="Vector" class="cls-1" d="M0,1.019H12.224A1.019,1.019,0,0,0,13.243,0H.259Z" transform="translate(1279.754 3874.073) rotate(-30)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="35" viewBox="0 0 100 35">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #080809;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        font-size: 6px;
+      }
+
+      .cls-3, .cls-4 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-4 {
+        font-size: 10px;
+      }
+    </style>
+  </defs>
+  <g id="Play_Store" data-name="Play Store" transform="translate(-1146 -4553)">
+    <rect id="Rectangle_24" data-name="Rectangle 24" class="cls-1" width="100" height="35" rx="17.5" transform="translate(1146 4553)"/>
+    <g id="apple_2_1" data-name="apple (2) 1">
+      <g id="Group">
+        <path id="Vector" class="cls-2" d="M4.351,12.314C1.97,12.3,0,7.439,0,4.964,0,.92,3.034.034,4.2.034a4.836,4.836,0,0,1,1.586.39,3.545,3.545,0,0,0,.905.26,2.818,2.818,0,0,0,.65-.211A5.206,5.206,0,0,1,9.3,0h0a4.013,4.013,0,0,1,3.358,1.7l.245.368-.352.266a2.966,2.966,0,0,0-1.422,2.446,2.761,2.761,0,0,0,1.54,2.552c.221.133.449.27.449.569,0,.2-1.56,4.393-3.826,4.393a3.077,3.077,0,0,1-1.292-.314,2.62,2.62,0,0,0-1.15-.277,2.958,2.958,0,0,0-.91.246,4.46,4.46,0,0,1-1.579.368Z" transform="translate(1163.438 4564.686)"/>
+        <path id="Vector-2" data-name="Vector" class="cls-2" d="M3.006,0A3.152,3.152,0,0,1,.024,3.511,3.39,3.39,0,0,1,3.006,0Z" transform="translate(1169.974 4561)"/>
+      </g>
+    </g>
+    <text id="Avalible_on_the" data-name="Avalible on the" class="cls-3" transform="translate(1182 4560)"><tspan x="0" y="6">Avalible on the</tspan></text>
+    <text id="Apple_Store" data-name="Apple Store" class="cls-4" transform="translate(1182 4568)"><tspan x="0" y="11">Apple Store</tspan></text>
+  </g>
+</svg>
